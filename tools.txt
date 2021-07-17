@@ -1,0 +1,21 @@
+Hey, Im too lazy to make a whole new page and re use code but here's some tools we use:
+
+Cody:
+Programming:
+Visual Studio Code
+Visual Studio 2019
+PyCharm
+2D Art:
+Asesprite
+Music:
+FL Studio
+Ableton 10 Live Lite
+BoscaCeoil
+
+
+
+Aidan:
+2D Art:
+Asesprite
+3D Modelling:
+Blender
