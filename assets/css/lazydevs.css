@@ -1,0 +1,19 @@
+body {
+    background-color: greenyellow;
+    font-family:'Courier New', Courier, monospace;
+}
+a {
+    text-decoration: none;
+    color:black
+}
+#topbar {
+    background: greenyellow;
+    font-size: 15px;
+    height: 50px;
+    padding: 0;
+  }
+  #topbar .contact-info a {
+    line-height: 0;
+    color: black;
+    transition: 0.3s;
+  }
